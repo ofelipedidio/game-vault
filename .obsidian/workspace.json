@@ -25,12 +25,14 @@
             "id": "cc55d3c93a65777a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-21 20.34.33.excalidraw.md"
+                "file": "Game.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-21 20.34.33.excalidraw"
+              "icon": "lucide-file",
+              "title": "Game"
             }
           }
         ],
@@ -107,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-21 20.34.33.excalidraw.md",
+                "file": "Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2025-03-21 20.34.33.excalidraw"
+              "title": "Backlinks for Game"
             }
           },
           {
@@ -126,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-21 20.34.33.excalidraw.md",
+                "file": "Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2025-03-21 20.34.33.excalidraw"
+              "title": "Outgoing links from Game"
             }
           },
           {
@@ -155,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-21 20.34.33.excalidraw.md",
+                "file": "Game.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-03-21 20.34.33.excalidraw"
+              "title": "Outline of Game"
             }
           },
           {
@@ -195,8 +197,9 @@
   },
   "active": "cc55d3c93a65777a",
   "lastOpenFiles": [
-    "Game.md",
+    "Pasted image 20250321204703.png",
     "Excalidraw/Drawing 2025-03-21 20.34.33.excalidraw.md",
+    "Game.md",
     "Excalidraw/Untitled.md",
     "Excalidraw",
     "Welcome.md"
