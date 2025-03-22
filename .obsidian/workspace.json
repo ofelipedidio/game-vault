@@ -175,15 +175,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "869155a20259acc0",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-03-21 20.34.33.excalidraw.md",
     "Game.md",
     "Pasted image 20250321204703.png",
-    "Excalidraw/Drawing 2025-03-21 20.34.33.excalidraw.md",
     "Excalidraw/Untitled.md",
     "Excalidraw",
     "Welcome.md"
