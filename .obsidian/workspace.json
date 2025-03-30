@@ -11,12 +11,14 @@
             "id": "869155a20259acc0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250321204703.png"
+                "file": "Game.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250321204703"
+              "icon": "lucide-file",
+              "title": "Game"
             }
           }
         ]
@@ -180,9 +182,13 @@
   },
   "active": "869155a20259acc0",
   "lastOpenFiles": [
-    "Game.md",
-    "Excalidraw/Drawing 2025-03-21 20.34.33.excalidraw.md",
     "Pasted image 20250321204703.png",
+    "Game.md",
+    "Directional Lighting.png",
+    "Directional Lighting.md",
+    "Pasted image 20250330100420.png",
+    "Pasted image 20250330100409.png",
+    "Excalidraw/Drawing 2025-03-21 20.34.33.excalidraw.md",
     "Excalidraw/Untitled.md",
     "Excalidraw",
     "Welcome.md"
