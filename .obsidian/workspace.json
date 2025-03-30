@@ -11,12 +11,12 @@
             "id": "869155a20259acc0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-21 20.34.33.excalidraw.md"
+                "file": "Pasted image 20250321204703.png"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-21 20.34.33.excalidraw"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250321204703"
             }
           }
         ]
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 272.5
   },
   "right": {
     "id": "e1b2a5261857796d",
@@ -178,10 +178,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "09cbf3b614bd8280",
+  "active": "869155a20259acc0",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-03-21 20.34.33.excalidraw.md",
     "Game.md",
+    "Excalidraw/Drawing 2025-03-21 20.34.33.excalidraw.md",
     "Pasted image 20250321204703.png",
     "Excalidraw/Untitled.md",
     "Excalidraw",
